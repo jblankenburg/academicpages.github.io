@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Janelle Blankenburg / Site Title"
+title                    : "Janelle Blankenburg"
 title_separator          : "-"
 name                     : &name "Janelle Blankenburg"
-description              : &description "personal description"
+description              : &description "Graduate Research Assistant - Computer Science and Engineering - University of Nevada, Reno"
 url                      : https://jblankenburg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jblankenburg/jblankenburg.github.io"
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Janelle Blankenburg"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "CSE Graduate Research Asssistant"
+  location         : "University of Nevada, Reno"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=_Z8kqLcAAAAJ&hl=en&oi=sra"
+  email            : "jjblankenburg@nevada.unr.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jblankenburg"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "_jjblankenburg_"
   vine             :
   weibo            :
   xing             :
