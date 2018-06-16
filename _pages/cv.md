@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science and Engineering
-  ** University of Nevada, Reno; May 2020 (expected) 
+  * University of Nevada, Reno; May 2020 (expected) 
 * M.S. in Computer Science and Engineering
-  ** University of Nevada, Reno; GPA 3.977; Dec 2017 
+  * University of Nevada, Reno; GPA 3.977; Dec 2017 
 * B.S. in Applied Mathematics
-  ** University of Nevada, Reno; Magna Cum Laude; GPA 3.961; Dec 2014 
+  * University of Nevada, Reno; Magna Cum Laude; GPA 3.961; Dec 2014 
 
 
 Master's Thesis
@@ -27,25 +27,25 @@ Master's Thesis
 Academic experience
 ======
 * Aug 2014 - Present
-  ** Undergraduate/Graduate Research Assistant
-  ** Robotics Research Lab, University of Nevada, Reno
-  *** __Multi-Robot Task Allocation:__  Extended a task allocation architecture from the single-robot domain to themulti-robot domain; Extended architecture for human-robot teams; Managed team for architecture development
-  *** __UAV Detect and Avoid:__  Developed obstacle detection and localization software via supervised machine learningtechniques, e.g.  Faster R-CNN and k-Nearest Neighbors.
-  *** __UAV Rotor Failsafe:__  Assisted in implementation of control algorithms for UAVs in the case of motor loss.
+  * Undergraduate/Graduate Research Assistant
+  * Robotics Research Lab, University of Nevada, Reno
+    * __Multi-Robot Task Allocation:__  Extended a task allocation architecture from the single-robot domain to themulti-robot domain; Extended architecture for human-robot teams; Managed team for architecture development
+    * __UAV Detect and Avoid:__  Developed obstacle detection and localization software via supervised machine learningtechniques, e.g.  Faster R-CNN and k-Nearest Neighbors.
+    * __UAV Rotor Failsafe:__  Assisted in implementation of control algorithms for UAVs in the case of motor loss.
 
 * Aug 2016 - May 2017
-  ** Graduate Research Fellow
-  ** Nevada Space Grant Consortium (NVSGC)
-  *** __UAV Detect and Avoid:__  Development and comparison of detect and avoid algorithms for UAV via reinforcementlearning techniques, e.g.  Q-Learning, Asynchronous Advantage Actor Critic, and Guided Policy Search
+  * Graduate Research Fellow
+  * Nevada Space Grant Consortium (NVSGC)
+    * __UAV Detect and Avoid:__  Development and comparison of detect and avoid algorithms for UAV via reinforcementlearning techniques, e.g.  Q-Learning, Asynchronous Advantage Actor Critic, and Guided Policy Search
 
 
 Professional experience
 ======
 * Jan 2016 - March 2018
-  ** Software Engineering Intern
-  ** Sierra Nevada Corporation (SNC)
-  *** __Obstacle Detection:__  Aided in development of algorithms for obstacle detection and sensor fusion.
-  *** __Software Maintenance:__  Supported team in maintenance and optimization of previously developed software.
+  * Software Engineering Intern
+  * Sierra Nevada Corporation (SNC)
+    * __Obstacle Detection:__  Aided in development of algorithms for obstacle detection and sensor fusion.
+    * __Software Maintenance:__  Supported team in maintenance and optimization of previously developed software.
 
 
 Class Projects
@@ -79,7 +79,7 @@ Honors
 ======
 * __Nevada Space Grant Fellowship:__  NVSGC, Aug 2016-May 2017
 * __Westfall Scholar:__  University of Nevada, Reno, Dec 2014
-  ** Highest GPA of graduating undergraduate students in Department of Mathematics and Statistics
+  * Highest GPA of graduating undergraduate students in Department of Mathematics and Statistics
 * __Nevada Space Grant Scholarship:__  NVSGC, Aug 2014-May 2015
 
 
