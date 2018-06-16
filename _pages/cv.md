@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science and Engineering
-** University of Nevada, Reno; May 2020 (expected) 
+  ** University of Nevada, Reno; May 2020 (expected) 
 * M.S. in Computer Science and Engineering
-** University of Nevada, Reno; GPA 3.977; Dec 2017 
+  ** University of Nevada, Reno; GPA 3.977; Dec 2017 
 * B.S. in Applied Mathematics
-** University of Nevada, Reno; Magna Cum Laude; GPA 3.961; Dec 2014 
+  ** University of Nevada, Reno; Magna Cum Laude; GPA 3.961; Dec 2014 
 
 
 Master's Thesis
@@ -48,7 +48,7 @@ Professional experience
   *** __Software Maintenance:__  Supported team in maintenance and optimization of previously developed software.
 
 
-Recent Projects
+Class Projects
 ======
 * __Technical Paper Recommendation System:__  Combined deep-learning based semantic analysis with complex networktheory to build a recommendation system; Languages/Tools Used:  Python, Gensim, Gephi.
 * __Object Classification:__  Developed an object classification algorithm which utilized a pre-trained neural network as afeature extractor for classifying unseen object classes; Languages/Tools Used:  Python, Torch, Model Zoo, Scikit-Learn.
@@ -79,7 +79,7 @@ Honors
 ======
 * __Nevada Space Grant Fellowship:__  NVSGC, Aug 2016-May 2017
 * __Westfall Scholar:__  University of Nevada, Reno, Dec 2014
-** Highest GPA of graduating undergraduate students in Department of Mathematics and Statistics
+  ** Highest GPA of graduating undergraduate students in Department of Mathematics and Statistics
 * __Nevada Space Grant Scholarship:__  NVSGC, Aug 2014-May 2015
 
 
