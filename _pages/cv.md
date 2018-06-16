@@ -11,30 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D. in Computer Science and Engineering
+** University of Nevada, Reno; May 2020 (expected) 
+* M.S. in Computer Science and Engineering
+** University of Nevada, Reno; GPA 3.977; Dec 2017 
+* B.S. in Applied Mathematics
+** University of Nevada, Reno; Magna Cum Laude; GPA 3.961; Dec 2014 
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Master's Thesis
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* __Title:__ A Distributed Control Architecture for Collaborative Multi-Robot Task Allocation
+* __Description:__ Addressed the problem of task allocation for multi-robot systems that perform tasks with complex,hierarchical representations which contain different types of ordering constraints and multiple paths of execution.Demonstrated the architecture on a team of two humanoid robots (a Baxter and a PR2).  Languages/Tools Used:  C++,Python, Robot Operating System (ROS), MoveIt!. 
+
+Academic experience
+======
+* Aug 2014 - Present
+  ** Undergraduate/Graduate Research Assistant
+  ** Robotics Research Lab, University of Nevada, Reno
+  *** __Multi-Robot Task Allocation:__  Extended a task allocation architecture from the single-robot domain to themulti-robot domain; Extended architecture for human-robot teams; Managed team for architecture development
+  *** __UAV Detect and Avoid:__  Developed obstacle detection and localization software via supervised machine learningtechniques, e.g.  Faster R-CNN and k-Nearest Neighbors.
+  *** __UAV Rotor Failsafe:__  Assisted in implementation of control algorithms for UAVs in the case of motor loss.
+
+* Aug 2016 - May 2017
+  ** Graduate Research Fellow
+  ** Nevada Space Grant Consortium (NVSGC)
+  *** __UAV Detect and Avoid:__  Development and comparison of detect and avoid algorithms for UAV via reinforcementlearning techniques, e.g.  Q-Learning, Asynchronous Advantage Actor Critic, and Guided Policy Search
+
+
+Professional experience
+======
+* Jan 2016 - March 2018
+  ** Software Engineering Intern
+  ** Sierra Nevada Corporation (SNC)
+  *** __Obstacle Detection:__  Aided in development of algorithms for obstacle detection and sensor fusion.
+  *** __Software Maintenance:__  Supported team in maintenance and optimization of previously developed software.
+
+
+Recent Projects
+======
+* __Technical Paper Recommendation System:__  Combined deep-learning based semantic analysis with complex networktheory to build a recommendation system; Languages/Tools Used:  Python, Gensim, Gephi.
+* __Object Classification:__  Developed an object classification algorithm which utilized a pre-trained neural network as afeature extractor for classifying unseen object classes; Languages/Tools Used:  Python, Torch, Model Zoo, Scikit-Learn.
+* __Clothing Trend Prediction:__  Developed a machine learning algorithm to predict clothing trends across several citiesfor any given day of the year; Lanuages/Tools Used:  Python, Scikit-Learn, SciPy.
+
 
 Publications
 ======
@@ -42,18 +61,34 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+
+Technology Skills
 ======
-* Currently signed in to 43 different slack teams
+* __Comfortable:__ Python, C/C++, MATLAB
+* __Familiar:__ Robot Operating System (ROS), Git, PyTorch, Scikit-Learn, TensorFlow, OpenAI Gym, Caffe
+
+
+Honors
+======
+* __Nevada Space Grant Fellowship:__  NVSGC, Aug 2016-May 2017
+* __Westfall Scholar:__  University of Nevada, Reno, Dec 2014
+** Highest GPA of graduating undergraduate students in Department of Mathematics and Statistics
+* __Nevada Space Grant Scholarship:__  NVSGC, Aug 2014-May 2015
+
+
+Community Involvement and Outreach
+======
+* __Mentor for Undergraduate Research:__  Advised undergraduate research students on research projects, Aug 2017 - Present
+* __Reviewer for Conference Papers:__  Reviewed full paper submissions for RO-MAN and IROS, 2015-2017
+* __Hour of Code:__  Assisted children in K-12 age group in programming tutorials, Spring 2015 - Present
+* __Lab Tours:__  Lead fellow lab members in discussing current research with various audiences, Fall 2014 - Present
+* __Reno Mini-Maker Faire:__  Lead presentations and demonstrations at booth for the Robotics Research Lab, Summer 2014/2015
+* __National Championship Air Races:__  Lead presentations and demonstrations at booth for the Robotics Research Lab, Summer 2014
+
