@@ -9,6 +9,6 @@ paperurl: 'https://ieeexplore.ieee.org/abstract/document/8246931/'
 citation: 'Stephanie Sturgeon, Andrew Palmer, Janelle Blankenburg, David Feil-Seifer. &quot;Perception of Social Intelligence in Robots Performing False-Belief Tasks.&quot; In <i>International Conference on Robot and Human Interactive Communication (ROMAN)</i>, New Delhi, India, Oct 2019. doi: TODO'
 ---
 TODO
-[Download paper here](http://jblankenburg.github.io/files/paper2.pdf)
+<!-- [Download paper here](http://jblankenburg.github.io/files/paper2.pdf) -->
 
 Recommended citation: TODO
