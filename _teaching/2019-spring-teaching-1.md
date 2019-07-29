@@ -2,6 +2,7 @@
 title: "Machine Learning Programming For Real-World Applications"
 collection: teaching
 type: "Graduate course"
+excerpt: 'This course aims to introduce students to practical tools used to solve various types of machine learning problems. This course focuses on both standard machine learning techniques and deep learning methods.'
 permalink: /teaching/2019-ML-programming-applications
 venue: "University of Nevada, Reno, Computer Science and Engineering"
 date: 2019-01-22
@@ -15,3 +16,4 @@ Upon completion of this course:
 * Students will be able to apply machine learning methods to solve real-world problems.
 * Students will be able to evaluate the suitability of different machine learning methods for various applications such as data imputation, NLP, object recognition, and trajectory optimization.
 
+_Course content developed by Janelle Blankenburg._
