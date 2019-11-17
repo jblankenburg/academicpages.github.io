@@ -16,4 +16,4 @@ Upon completion of this course:
 * Students will be able to apply machine learning methods to solve real-world problems.
 * Students will be able to evaluate the suitability of different machine learning methods for various applications such as data imputation, NLP, object recognition, and trajectory optimization.
 
-_Course content developed by Janelle Blankenburg (Fall 2019)._
+_Course content developed by Janelle Blankenburg under the advisement of Dr. David Feil-Seifer (Fall 2019)._
