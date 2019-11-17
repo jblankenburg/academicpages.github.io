@@ -160,10 +160,6 @@ Grant Participation
 
 Teaching
 ======
-  <!-- <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
 * Courses Created
   * **CS 791 Machine Learning Applications:** This course aims to introduce students to practical tools used to solve various types of machine learning problems. This course focuses on both standard machine learning techniques and deep learning methods. The applications being explored are data imputation, natural language processing, object recognition, and trajectory optimization. Students will work on a semester project in which they must apply some of the tools to a problem area of their choosing, with the expectation of a resulting conference paper. These projects will illustrate that students are able to use these methods to effectively solve modern problems; _Assisted by: Dr. David Feil-Seifer, Spring 2019_
 
