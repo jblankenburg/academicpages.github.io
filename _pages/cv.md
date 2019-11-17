@@ -54,19 +54,19 @@ Professional experience
  -->
 
 * Graduate Research Fellow - Robotics Research Lab, University of Nevada, Reno - Dec 2014 - Present
-** _Generalized Task Structure Learning:_ Developed an end-to-end system to learn generalized manipulation tasks for collaborative multi-robot teams using human demonstration and machine learning.
-** _Multi-Robot Task Allocation:_ Extended a task allocation architecture from the single-robot domain to the multi-robot domain; Extended architecture for human-robot teams; Managed team for architecture development.
+  * _Generalized Task Structure Learning:_ Developed an end-to-end system to learn generalized manipulation tasks for collaborative multi-robot teams using human demonstration and machine learning.
+  * _Multi-Robot Task Allocation:_ Extended a task allocation architecture from the single-robot domain to the multi-robot domain; Extended architecture for human-robot teams; Managed team for architecture development.
 
 * Software Engineering Intern - Sierra Nevada Corporation (SNC), Sparks, NV - Jan 2016 - March 2018
-** _Obstacle Detection:_ Aided in development of algorithms for obstacle detection and sensor fusion.
-** _Software Maintenance_ Supported team in maintenance and optimization of previously developed software.
+  * _Obstacle Detection:_ Aided in development of algorithms for obstacle detection and sensor fusion.
+  * _Software Maintenance_ Supported team in maintenance and optimization of previously developed software.
 
 * Graduate Research Fellow - Nevada Space Grant Consortium (NVSGC) (NASA/EPSCoR) - Aug 2016 - May 2017
-** _UAV Detect and Avoid:_ Development and comparison of detect and avoid algorithms for UAV via reinforcement learning techniques, e.g. Q-Learning, Asynchronous Advantage Actor Critic, and Guided Policy Search.
+  * _UAV Detect and Avoid:_ Development and comparison of detect and avoid algorithms for UAV via reinforcement learning techniques, e.g. Q-Learning, Asynchronous Advantage Actor Critic, and Guided Policy Search.
 
 * Undergraduate Research Assistant - Robotics Research Lab, University of Nevada, Reno - Aug 2014 - Dec 2014
-** _UAV Detect and Avoid:_ Developed obstacle detection and localization software via supervised machine learning techniques, e.g. Faster R-CNN and k-Nearest Neighbors. 
-** _UAV Rotor Failsafe:_ Assisted in implementation of control algorithms for UAVs in the case of motor loss.
+  * _UAV Detect and Avoid:_ Developed obstacle detection and localization software via supervised machine learning techniques, e.g. Faster R-CNN and k-Nearest Neighbors. 
+  * _UAV Rotor Failsafe:_ Assisted in implementation of control algorithms for UAVs in the case of motor loss.
 
 
 Non-Dissertation Projects
@@ -93,37 +93,37 @@ Publications
  -->  
 
 * Refereed Journal Articles
-** S. Pourya Hoseini A., __Janelle Blankenburg__, Mircea Nicolescu, Monica Nicolescu, David Feil-Seifer. "Active Eye-in-Hand Data Management to Improve the Robotic Object." Computers, 2019.
+  * S. Pourya Hoseini A., __Janelle Blankenburg__, Mircea Nicolescu, Monica Nicolescu, David Feil-Seifer. "Active Eye-in-Hand Data Management to Improve the Robotic Object." Computers, 2019.
 
 * In Preparation Journal Articles
-** __Janelle Blankenburg__,  Mariya Zagainova\*, Stephen Michael Simmons\*, Gabrielle Talavera\*, Monica Nicolescu, David Feil-Seifer. "Human-Robot Collaboration and Dialogue for Fault Recovery on Hierarchical Tasks." In Preparation for THRI Special issue in on "Explainable Robotic Systems" (in prep).
-** __Janelle Blankenburg__,  Mariya Zagainova\*, S. Pourya Hoseini A., Monica Nicolescu, Mircea Nicolesu, David Feil-Seifer. "Dynamic Task Allocation in Heterogeneous Robot Teams." In Preparation for MDPI Special Issue of Applied Sciences on "Cognitive Robotics" (in prep).
+  * __Janelle Blankenburg__,  Mariya Zagainova\*, Stephen Michael Simmons\*, Gabrielle Talavera\*, Monica Nicolescu, David Feil-Seifer. "Human-Robot Collaboration and Dialogue for Fault Recovery on Hierarchical Tasks." In Preparation for THRI Special issue in on "Explainable Robotic Systems" (in prep).
+  * __Janelle Blankenburg__,  Mariya Zagainova\*, S. Pourya Hoseini A., Monica Nicolescu, Mircea Nicolesu, David Feil-Seifer. "Dynamic Task Allocation in Heterogeneous Robot Teams." In Preparation for MDPI Special Issue of Applied Sciences on "Cognitive Robotics" (in prep).
 
 * Refereed Conference Proceedings}
-** Elif E. Bas, Mohamed Moustafa, David Feil-Seifer, __Janelle Blankenburg__. "Using a Machine Learning Approach for Computational Substructure in Real-Time Hybrid Simulation." To Appear in IMAC-XXXVIII Conference and Exposition, Houston, TX, Feb 2020. Society for Experimental Mechanics (SEM).
-** Bashira Akter Anima, __Janelle Blankenburg__, Mariya Zagainova\*, S. Pourya Hoseini A., Muhammed Tawfiq Chowdhury, David Feil-Seifer, Monica Nicolescu, and Mircea Nicolescu. "Collaborative Human-Robot Hierarchical Task Execution with an Activation Spreading Architecture." To Appear in International Conference on Social Robotics (ICSR), Madrid, Spain, Nov 2019
-** Monica Nicolescu, Natalie Arnold\*, __Janelle Blankenburg__, David Feil-Seifer, Santosh Balajee Banisetty, Mircea Nicolescu, Andrew Palmer, Thor Monteverde. "Learning of Complex-Structured Tasks from Verbal Instruction." In IEEE-RAS International Conference on Humanoid Robots (Humanoids), Toronto, Canada, Oct 2019
-** S. Pourya Hoseini A., __Janelle Blankenburg__, Mircea Nicolescu, Monica Nicolescu, and David Feil-Seifer. "A Dual-Camera Robotic Vision System Based on the Concept of Active Perception." In International Symposium on Visual Computing (ISVC), Lake Tahoe, USA, Oct 2019.        
-** Stephanie Sturgeon\*, Andrew Palmer, __Janelle Blankenburg__, David Feil-Seifer. "Perception of Social Intelligence in Robots Performing False-Belief Tasks." In IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), New Delhi, India, Oct 2019.
-** __Janelle Blankenburg__, Santosh Balajee Banisetty, Seyed P. Hoseini, Luke Fraser, David Feil-Seifer, Monica Nicolescu, and Mircea Nicolescu. "A Distributed Control Architecture for Collaborative Multi-Robot Task Allocation." In International Conference on Humanoid Robots (Humanoids), Birmingham, UK, Nov 2017.
+  * Elif E. Bas, Mohamed Moustafa, David Feil-Seifer, __Janelle Blankenburg__. "Using a Machine Learning Approach for Computational Substructure in Real-Time Hybrid Simulation." To Appear in IMAC-XXXVIII Conference and Exposition, Houston, TX, Feb 2020. Society for Experimental Mechanics (SEM).
+  * Bashira Akter Anima, __Janelle Blankenburg__, Mariya Zagainova\*, S. Pourya Hoseini A., Muhammed Tawfiq Chowdhury, David Feil-Seifer, Monica Nicolescu, and Mircea Nicolescu. "Collaborative Human-Robot Hierarchical Task Execution with an Activation Spreading Architecture." To Appear in International Conference on Social Robotics (ICSR), Madrid, Spain, Nov 2019
+  * Monica Nicolescu, Natalie Arnold\*, __Janelle Blankenburg__, David Feil-Seifer, Santosh Balajee Banisetty, Mircea Nicolescu, Andrew Palmer, Thor Monteverde. "Learning of Complex-Structured Tasks from Verbal Instruction." In IEEE-RAS International Conference on Humanoid Robots (Humanoids), Toronto, Canada, Oct 2019
+  * S. Pourya Hoseini A., __Janelle Blankenburg__, Mircea Nicolescu, Monica Nicolescu, and David Feil-Seifer. "A Dual-Camera Robotic Vision System Based on the Concept of Active Perception." In International Symposium on Visual Computing (ISVC), Lake Tahoe, USA, Oct 2019.        
+  * Stephanie Sturgeon\*, Andrew Palmer, __Janelle Blankenburg__, David Feil-Seifer. "Perception of Social Intelligence in Robots Performing False-Belief Tasks." In IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), New Delhi, India, Oct 2019.
+  * __Janelle Blankenburg__, Santosh Balajee Banisetty, Seyed P. Hoseini, Luke Fraser, David Feil-Seifer, Monica Nicolescu, and Mircea Nicolescu. "A Distributed Control Architecture for Collaborative Multi-Robot Task Allocation." In International Conference on Humanoid Robots (Humanoids), Birmingham, UK, Nov 2017.
 
 * Submitted Conference Proceedings
-** __Janelle Blankenburg__, Richard Kelley, David Feil-Seifer, Rui Wu, Lee Barford, Fred Harris. "Towards GPU-Accelerated PRM for Autonomous Navigation" In International Conference on Information Technology: New Generations (ITNG), Las Vegas, Nevada, USA, April 2020 (in review).        
-** AnaLisa Honour\*, Andrew Palmer, __Janelle Blankenburg__, and David Feil-Seifer. "The Impact of Unwarranted Criticism on Human Perception of a Robot," In ACM/IEEE International Conference on Human-Robot Interaction (HRI), Cambridge, UK, March 2020 (in review). 
+  * __Janelle Blankenburg__, Richard Kelley, David Feil-Seifer, Rui Wu, Lee Barford, Fred Harris. "Towards GPU-Accelerated PRM for Autonomous Navigation" In International Conference on Information Technology: New Generations (ITNG), Las Vegas, Nevada, USA, April 2020 (in review).        
+  * AnaLisa Honour\*, Andrew Palmer, __Janelle Blankenburg__, and David Feil-Seifer. "The Impact of Unwarranted Criticism on Human Perception of a Robot," In ACM/IEEE International Conference on Human-Robot Interaction (HRI), Cambridge, UK, March 2020 (in review). 
 
 * In Preparation Conference Proceedings
-** Eloisa Burton\*, __Janelle Blankenburg__, Monica Nicolescu, David Feil-Seifer. "Simultaneous Task Collaboration Architecture." In International Conference on Intelligent Robots and Systems (IROS), Las Vegas, Nevada, Oct 2020 (in prep).
-** Taylor Boyd\*, __Janelle Blankenburg__, Monica Nicolescu, David Feil-Seifer. "Hierarchical Task Learning Through Human Demonstration." In International Conference on Intelligent Robots and Systems (IROS), Las Vegas, Nevada, Oct 2020 (in prep).
+  * Eloisa Burton\*, __Janelle Blankenburg__, Monica Nicolescu, David Feil-Seifer. "Simultaneous Task Collaboration Architecture." In International Conference on Intelligent Robots and Systems (IROS), Las Vegas, Nevada, Oct 2020 (in prep).
+  * Taylor Boyd\*, __Janelle Blankenburg__, Monica Nicolescu, David Feil-Seifer. "Hierarchical Task Learning Through Human Demonstration." In International Conference on Intelligent Robots and Systems (IROS), Las Vegas, Nevada, Oct 2020 (in prep).
 
 * Non-Refereed Conference Posters
-** Taylor Boyd\*, Mariya Zagainova\*, __Janelle Blankenburg__, Monica Nicolescu, and David Feil-Seifer. "Hierarchical Task Learning Through Human Demonstration," Poster Paper in Proceedings of the University of Nevada, Reno Summer Undergraduate Research Symposium. Reno, NV. August, 2019.
-** Eloisa Burton\*, __Janelle Blankenburg__, Monica Nicolescu, and David Feil-Seifer. "Simultaneous Task Collaboration Architecture," Poster Paper in Proceedings of the University of Nevada, Reno Summer Undergraduate Research Symposium. Reno, NV. August, 2019.
-** Natalie Arnold\*, Andrew Palmer, __Janelle Blankenburg__, Monica Nicolescu, and David Feil-Seifer. "Extracting Spatial Relations from Natural Language Instruction," Poster Paper in Proceedings of the University of Nevada, Reno Summer Undergraduate Research Symposium. Reno, NV. August, 2018.  
-** S. Michael Simmons\*, Andrew Palmer, __Janelle Blankenburg__, David Feil-Seifer, and Monica Nicolescu. "Multi-Robot Systems Overcoming the Unexpected through Dialog," Poster Paper in Proceedings of the University of Nevada, Reno Summer Undergraduate Research Symposium. Reno, NV. August, 2018.
- ** Maya Cratsley, __Janelle Blankenburg__, and David Feil-Seifer. "Understanding Role-Appropriate Capacities for Robots," Poster Paper in Proceedings of the University of Nevada, Reno Summer Undergraduate Research Symposium. Reno, NV. August, 2018.
-** AnaLisa Honour\*, __Janelle Blankenburg__, Andrew Palmer, and David Feil-Seifer. "The Impact of Robot Criticism on Human-Robot Interaction," Poster Paper in Proceedings of the University of Nevada, Reno Summer Undergraduate Research Symposium. Reno, NV. August, 2018.
-* Stephanie Sturgeon\*, Andrew Palmer, __Janelle Blankenburg__, and David Feil-Seifer. "Perception of Intelligence and Animacy in Robots Performing False-Belief Tasks," Poster Paper in Proceedings of the University of Nevada, Reno Summer Undergraduate Research Symposium. Reno, NV. August, 2018.
-* __Janelle Blankenburg__, Richard Kelley, and David Feil-Seifer. "Failsafe Algorithms for Stabilization and Control of UAS Platforms," Poster Paper in Proceedings of the NASA EPSCoR and Space Grant Consortium Annual Meeting. Las Vegas, NV. April, 2015.
+  * Taylor Boyd\*, Mariya Zagainova\*, __Janelle Blankenburg__, Monica Nicolescu, and David Feil-Seifer. "Hierarchical Task Learning Through Human Demonstration," Poster Paper in Proceedings of the University of Nevada, Reno Summer Undergraduate Research Symposium. Reno, NV. August, 2019.
+  * Eloisa Burton\*, __Janelle Blankenburg__, Monica Nicolescu, and David Feil-Seifer. "Simultaneous Task Collaboration Architecture," Poster Paper in Proceedings of the University of Nevada, Reno Summer Undergraduate Research Symposium. Reno, NV. August, 2019.
+  * Natalie Arnold\*, Andrew Palmer, __Janelle Blankenburg__, Monica Nicolescu, and David Feil-Seifer. "Extracting Spatial Relations from Natural Language Instruction," Poster Paper in Proceedings of the University of Nevada, Reno Summer Undergraduate Research Symposium. Reno, NV. August, 2018.  
+  * S. Michael Simmons\*, Andrew Palmer, __Janelle Blankenburg__, David Feil-Seifer, and Monica Nicolescu. "Multi-Robot Systems Overcoming the Unexpected through Dialog," Poster Paper in Proceedings of the University of Nevada, Reno Summer Undergraduate Research Symposium. Reno, NV. August, 2018.
+  * Maya Cratsley, __Janelle Blankenburg__, and David Feil-Seifer. "Understanding Role-Appropriate Capacities for Robots," Poster Paper in Proceedings of the University of Nevada, Reno Summer Undergraduate Research Symposium. Reno, NV. August, 2018.
+  * AnaLisa Honour\*, __Janelle Blankenburg__, Andrew Palmer, and David Feil-Seifer. "The Impact of Robot Criticism on Human-Robot Interaction," Poster Paper in Proceedings of the University of Nevada, Reno Summer Undergraduate Research Symposium. Reno, NV. August, 2018.
+  * Stephanie Sturgeon\*, Andrew Palmer, __Janelle Blankenburg__, and David Feil-Seifer. "Perception of Intelligence and Animacy in Robots Performing False-Belief Tasks," Poster Paper in Proceedings of the University of Nevada, Reno Summer Undergraduate Research Symposium. Reno, NV. August, 2018.
+  * __Janelle Blankenburg__, Richard Kelley, and David Feil-Seifer. "Failsafe Algorithms for Stabilization and Control of UAS Platforms," Poster Paper in Proceedings of the NASA EPSCoR and Space Grant Consortium Annual Meeting. Las Vegas, NV. April, 2015.
      \end{revnumerate}}
 
 \*: Undergraduate co-author
@@ -148,14 +148,14 @@ Honors and Awards
 Grant Participation
 ======
 * Grant Preparation Experience
-** _Quori @ UNR: An Assistance, Collaboration, and Service Research Platform For Human-Robot Interaction In the Wild, 2019. Quori CRI Competitive Competition._ $2,500 (equipment). co-PI: Monica Nicolescu, Kostas Alexis, Hung La, Alireza Tavakkoli, and Yantao Shen; _Role: Helped draft a significant portion of the proposal_
+  * _Quori @ UNR: An Assistance, Collaboration, and Service Research Platform For Human-Robot Interaction In the Wild, 2019. Quori CRI Competitive Competition._ $2,500 (equipment). co-PI: Monica Nicolescu, Kostas Alexis, Hung La, Alireza Tavakkoli, and Yantao Shen; _Role: Helped draft a significant portion of the proposal_
 
 
 
 * Researcher on Funded Projects
-** _Designing Collaborator Robots for Highly-Dynamic Multi-Human, Multi-Robot Teams, 2016-2019. Office of Naval Research (ONR)._ $656,511. PI: Monica Nicolescu, co-PIs: David Feil-Seifer, Mircea Nicolescu; _Role: Lead graduate researcher on multi-person graduate/undergraduate team_
-** _DURIP: Humanoid Platforms for Human-Robot Collaboration, 2014-2015. Office of Naval Research (ONR)._ $312,500. PI: Monica Nicolescu. co-PIs: David Feil-Seifer, Mircea Nicolescu; _Role: Research performed on both Baxter and PR2 robots_
-** _REU Site: Collaborative Human-Robot Interaction, 2018-2020. National Science Foundation (NSF)._ $360,000. PI: David Feil-Seifer, co-PI: Shamik Sengupta. award \#IIS-1757929; _Role: Graduate mentor for 7 undergraduate students over 2 summers_
+  * _Designing Collaborator Robots for Highly-Dynamic Multi-Human, Multi-Robot Teams, 2016-2019. Office of Naval Research (ONR)._ $656,511. PI: Monica Nicolescu, co-PIs: David Feil-Seifer, Mircea Nicolescu; _Role: Lead graduate researcher on multi-person graduate/undergraduate team_
+  * _DURIP: Humanoid Platforms for Human-Robot Collaboration, 2014-2015. Office of Naval Research (ONR)._ $312,500. PI: Monica Nicolescu. co-PIs: David Feil-Seifer, Mircea Nicolescu; _Role: Research performed on both Baxter and PR2 robots_
+  * _REU Site: Collaborative Human-Robot Interaction, 2018-2020. National Science Foundation (NSF)._ $360,000. PI: David Feil-Seifer, co-PI: Shamik Sengupta. award \#IIS-1757929; _Role: Graduate mentor for 7 undergraduate students over 2 summers_
 
 
 Teaching
@@ -164,35 +164,35 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 * Courses Created
-** **CS 791 Machine Learning Applications:** This course aims to introduce students to practical tools used to solve various types of machine learning problems. This course focuses on both standard machine learning techniques and deep learning methods. The applications being explored are data imputation, natural language processing, object recognition, and trajectory optimization. Students will work on a semester project in which they must apply some of the tools to a problem area of their choosing, with the expectation of a resulting conference paper. These projects will illustrate that students are able to use these methods to effectively solve modern problems; _Assisted by: Dr. David Feil-Seifer, Spring 2019_
+  * **CS 791 Machine Learning Applications:** This course aims to introduce students to practical tools used to solve various types of machine learning problems. This course focuses on both standard machine learning techniques and deep learning methods. The applications being explored are data imputation, natural language processing, object recognition, and trajectory optimization. Students will work on a semester project in which they must apply some of the tools to a problem area of their choosing, with the expectation of a resulting conference paper. These projects will illustrate that students are able to use these methods to effectively solve modern problems; _Assisted by: Dr. David Feil-Seifer, Spring 2019_
 
 * Instructor
-** **CS 482/682 Artificial Intelligence:** Problem solving, search, and game trees. Knowledge representation, inference, and rule-based systems. Semantic networks, frames, and planning. Introduction to machine learning, neural-nets, and genetic algorithms.; _Revised Course Material, Undergraduate/Graduate level, (Approx. 65 students), Primary Instructor, Fall 2019_
-** **CS 791 Machine Learning Applications:** Introduce students to practical tools used to solve various types of machine learning problems. Machine learning, deep learning, data imputation, natural language processing, object recognition, and trajectory optimization; _New preparation of course, Graduate level, (Approx. 21 students), Co-Instructor: Dr. David Feil-Seifer, Spring 2019_ 
+  * **CS 482/682 Artificial Intelligence:** Problem solving, search, and game trees. Knowledge representation, inference, and rule-based systems. Semantic networks, frames, and planning. Introduction to machine learning, neural-nets, and genetic algorithms.; _Revised Course Material, Undergraduate/Graduate level, (Approx. 65 students), Primary Instructor, Fall 2019_
+  * **CS 791 Machine Learning Applications:** Introduce students to practical tools used to solve various types of machine learning problems. Machine learning, deep learning, data imputation, natural language processing, object recognition, and trajectory optimization; _New preparation of course, Graduate level, (Approx. 21 students), Co-Instructor: Dr. David Feil-Seifer, Spring 2019_ 
 
 
 * Guest Lecturer
-** **Deep Reinforcement Learning** CS 791: Robot Manipulators, (Approx. 15 students), Spring 2017. Presented guest lecture on deep reinforcement learning concepts and papers relevant to robotic manipulation tasks. 
+  * **Deep Reinforcement Learning** CS 791: Robot Manipulators, (Approx. 15 students), Spring 2017. Presented guest lecture on deep reinforcement learning concepts and papers relevant to robotic manipulation tasks. 
 
 
 Research Mentorship
 ======
 * Masters Students Mentored as Ph.D. Student
-** Ashutosh Singandhupe (Fall 2016) 
-** David Frank (Fall 2015 - Spring 2016)
+  * Ashutosh Singandhupe (Fall 2016) 
+  * David Frank (Fall 2015 - Spring 2016)
 
 * Undergraduates Mentored as Ph.D. Student
-** Chris Peterson (Summer 2019 - Present)
-** Taylor Boyd* (REU, Summer 2019),
-** Eloisa Burton* (REU, Summer 2019)
-** Mariya Zagainova* (Spring 2017 - Spring 2019), 
-** Gabrielle Talavera* (PREP, Spring 2019),
-** Natalie Arnold* (REU, Summer 2018),
-** S. Michael Simmons* (REU, Summer 2018),
-** Maya Cratsley (REU, Summer 2018),
-** Analisa Honour* (REU, Summer 2018),
-** Stephanie Sturgeon* (REU, Summer 2018),
-** Christopher Lewis (Spring 2017),
+  * Chris Peterson (Summer 2019 - Present)
+  * Taylor Boyd* (REU, Summer 2019),
+  * Eloisa Burton* (REU, Summer 2019)
+  * Mariya Zagainova* (Spring 2017 - Spring 2019), 
+  * Gabrielle Talavera* (PREP, Spring 2019),
+  * Natalie Arnold* (REU, Summer 2018),
+  * S. Michael Simmons* (REU, Summer 2018),
+  * Maya Cratsley (REU, Summer 2018),
+  * Analisa Honour* (REU, Summer 2018),
+  * Stephanie Sturgeon* (REU, Summer 2018),
+  * Christopher Lewis (Spring 2017),
 
 
 Community Involvement and K-12 Outreach
@@ -209,12 +209,12 @@ Community Involvement and K-12 Outreach
 Professional Activities and Academic Service
 ======
 * Reviewer for Professional Conferences
-** IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) 
-** IEEE International Conference on Robots and Systems (IROS) 
-** ACM/IEEE International Conference on Human-Robot Interaction (HRI) 
-** IEEE-RAS International Conference on Humanoid Robots (Humanoids)
+  * IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) 
+  * IEEE International Conference on Robots and Systems (IROS) 
+  * ACM/IEEE International Conference on Human-Robot Interaction (HRI) 
+  * IEEE-RAS International Conference on Humanoid Robots (Humanoids)
 * Maintainer
-** _Distributed\_Collaborative\_Task\_Tree:_ UNR Repository for distributed hierarchical architecture for multi-robot/human-robot collaboration
+  * _Distributed\_Collaborative\_Task\_Tree:_ UNR Repository for distributed hierarchical architecture for multi-robot/human-robot collaboration
 
 
 Society Memberships
