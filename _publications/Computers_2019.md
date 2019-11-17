@@ -3,7 +3,7 @@ title: "Active Eye-in-Hand Data Management to Improve the Robotic Object"
 collection: publications
 permalink: /publication/2019-Computers
 excerpt: 'In this paper, a robotic vision system is proposed that constantly uses a 3D camera, while actively switching to make use of a second RGB camera in cases where it is necessary.'
-date: 2019
+date: 2019-09-23
 venue: 'Computers'
 paperurl: 'https://www.mdpi.com/2073-431X/8/4/71/htm'
 citation: 'S. Pourya Hoseini A., __Janelle Blankenburg__, Mircea Nicolescu, Monica Nicolescu, David Feil-Seifer. "Active Eye-in-Hand Data Management to Improve the Robotic Object." Computers, 2019'
