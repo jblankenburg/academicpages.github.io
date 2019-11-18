@@ -1,7 +1,7 @@
 ---
 title: "UAV Rotor Failsafe"
 collection: research
-type: "Graduate Research"
+type: "Undergraduate Research"
 permalink: /research/UAVRotorFailsafe
 venue: "University of Nevada, Reno, Computer Science and Engineering"
 date: 2014-08-28
