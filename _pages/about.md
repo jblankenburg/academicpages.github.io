@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello World! Welcome to the home page of Janelle Blankenburg. 
+I am a Ph.D. Candidate and Graduate Research Fellow in Computer Science at the University of Nevada, Reno. I will be finishing my Ph.D. in May 2020 (expected). 
 
-I am a Ph.D. Candidate and Graduate Research Assistant in Computer Science at the University of Nevada, Reno. I will be finishing my Ph.D. in May 2020 (expected). 
-
-My research interests are multi-robot/human-robot hierarchical task allocation and generalized task learning using machine learning techniques. These interests are motivated by the desire for muti-robot/human-robot teams to work efficiently and safely together for assembly and other household tasks as well as to allow humans to improve robots' abilities to perform these tasks through use of human provided demonstrations.  
+My research interests are generalized task learning, natural language processing, and machine learning for robotics applications. These interests are motivated by the desire for creating a seamless workflow for collaborative muti-robot/human-robot teams in both industrial and household environments. I am to develop a generalized task learning framework along with an effective communication method between agents. The goal is for a human to provide both physical and verbal demonstrations to teach the robot to perform a task. In household environments, users would be able to utilize robots for activities of daily living which they are unable to perform themselves. In an industry setting, employees would be able to train robots for new tasks while ensuring they can work alongside the robots safely and reliably.
 
 Previously, I completed by M.S. in Computer Science at University of Nevada, Reno and my B.S. in Applied Mathematics at University of Nevada, Reno.
