@@ -8,7 +8,7 @@ date: 2016-03-01
 location: "Reno, Nevada"
 ---
 
-![alt text]( https://github.com/jblankenburg/jblankenburg.github.io/tree/master/photos/MRATaskAlloc.jpg "Distributed Control Architecture for Collaborative Multi-Robot Task Allocation")
+https://github.com/jblankenburg/jblankenburg.github.io/blob/master/photos/MRATaskAlloc.jpg
 
 Real-world tasks are not only a series of sequential steps, but typically exhibit a combination of multiple types of constraints. These tasks pose significant challenges, as enumerating all the possible ways in which the task can be performed can lead to large representations and it is difficult to keep track of the task constraints during execution. Previously we developed an architecture that provides a compact encoding of such tasks and validated it in a single robot domain. We recently extended this architecture to address the problem of representing and executing tasks in a collaborative multi-robot setting. Firstly, the architecture allows for on-line, dynamic allocation of robots to various steps of the task. Secondly, our architecture ensures that the collaborative robot system will obey all of the task constraints. Thirdly, the proposed architecture allows for opportunistic and flexible task execution given different environmental conditions. We demonstrated the performance of our architecture on a team of two humanoid robots (a Baxter robot and a PR2 robot) performing hierarchical tasks. Further extensions of this architecture are currently being explored.
 
