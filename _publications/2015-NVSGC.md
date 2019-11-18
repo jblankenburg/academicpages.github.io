@@ -6,7 +6,7 @@ excerpt: 'Rapid increase in the use of Unmanned Autonomous Systems (UAS) has cau
 date: 2015-04-15
 venue: 'Humanoid Robotics (Humanoids), 2017 IEEE-RAS 17th International Conference on'
 paperurl: 'https://rrl.cse.unr.edu/media/documents/2018/humanoids_1.pdf'
-citation: '__Janelle Blankenburg__, Richard Kelley, and David Feil-Seifer. "Failsafe Algorithms for Stabilization and Control of UAS Platforms," Poster Paper in Proceedings of the NASA EPSCoR and Space Grant Consortium Annual Meeting. Las Vegas, NV. April, 2015.
+citation: 'Janelle Blankenburg, Richard Kelley, and David Feil-Seifer. "Failsafe Algorithms for Stabilization and Control of UAS Platforms," Poster Paper in Proceedings of the NASA EPSCoR and Space Grant Consortium Annual Meeting. Las Vegas, NV. April, 2015.
 ---
 
 Rapid increase in the use of Unmanned Autonomous Systems (UAS) has caused the safety of these platforms to become a high priority. One main safety issue with UAS platforms is motor failure. In order to increase the safety of these platforms in the event of such a failure, a failsafe mechanism can be used to stabilize and control the UAS platform.
