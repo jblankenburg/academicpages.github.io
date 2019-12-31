@@ -101,7 +101,7 @@ Publications
 * Refereed Conference Proceedings
   * __Janelle Blankenburg__, Richard Kelley, David Feil-Seifer, Rui Wu, Lee Barford, Fred Harris. "Towards GPU-Accelerated PRM for Autonomous Navigation" To Appear in International Conference on Information Technology: New Generations (ITNG), Las Vegas, Nevada, USA, April 2020.  
   * Elif E. Bas, Mohamed Moustafa, David Feil-Seifer, __Janelle Blankenburg__. "Using a Machine Learning Approach for Computational Substructure in Real-Time Hybrid Simulation." To Appear in IMAC-XXXVIII Conference and Exposition, Houston, TX, Feb 2020. Society for Experimental Mechanics (SEM).
-  * Bashira Akter Anima, __Janelle Blankenburg__, Mariya Zagainova\*, S. Pourya Hoseini A., Muhammed Tawfiq Chowdhury, David Feil-Seifer, Monica Nicolescu, and Mircea Nicolescu. "Collaborative Human-Robot Hierarchical Task Execution with an Activation Spreading Architecture." To Appear in International Conference on Social Robotics (ICSR), Madrid, Spain, Nov 2019. __Best Paper Award Finalist__
+  * Bashira Akter Anima, __Janelle Blankenburg__, Mariya Zagainova\*, S. Pourya Hoseini A., Muhammed Tawfiq Chowdhury, David Feil-Seifer, Monica Nicolescu, and Mircea Nicolescu. "Collaborative Human-Robot Hierarchical Task Execution with an Activation Spreading Architecture." In International Conference on Social Robotics (ICSR), Madrid, Spain, Nov 2019. __Best Paper Award Finalist__
   * Monica Nicolescu, Natalie Arnold\*, __Janelle Blankenburg__, David Feil-Seifer, Santosh Balajee Banisetty, Mircea Nicolescu, Andrew Palmer, Thor Monteverde. "Learning of Complex-Structured Tasks from Verbal Instruction." In IEEE-RAS International Conference on Humanoid Robots (Humanoids), Toronto, Canada, Oct 2019.
   * S. Pourya Hoseini A., __Janelle Blankenburg__, Mircea Nicolescu, Monica Nicolescu, and David Feil-Seifer. "A Dual-Camera Robotic Vision System Based on the Concept of Active Perception." In International Symposium on Visual Computing (ISVC), Lake Tahoe, USA, Oct 2019.        
   * Stephanie Sturgeon\*, Andrew Palmer, __Janelle Blankenburg__, David Feil-Seifer. "Perception of Social Intelligence in Robots Performing False-Belief Tasks." In IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), New Delhi, India, Oct 2019.
@@ -127,7 +127,6 @@ Publications
   * AnaLisa Honour\*, __Janelle Blankenburg__, Andrew Palmer, and David Feil-Seifer. "The Impact of Robot Criticism on Human-Robot Interaction," Poster Paper in Proceedings of the University of Nevada, Reno Summer Undergraduate Research Symposium. Reno, NV. August, 2018.
   * Stephanie Sturgeon\*, Andrew Palmer, __Janelle Blankenburg__, and David Feil-Seifer. "Perception of Intelligence and Animacy in Robots Performing False-Belief Tasks," Poster Paper in Proceedings of the University of Nevada, Reno Summer Undergraduate Research Symposium. Reno, NV. August, 2018.
   * __Janelle Blankenburg__, Richard Kelley, and David Feil-Seifer. "Failsafe Algorithms for Stabilization and Control of UAS Platforms," Poster Paper in Proceedings of the NASA EPSCoR and Space Grant Consortium Annual Meeting. Las Vegas, NV. April, 2015.
-     \end{revnumerate}}
 
 \*: Undergraduate co-author
 

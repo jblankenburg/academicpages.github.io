@@ -1,12 +1,13 @@
 ---
 title: "Failsafe Algorithms for Stabilization and Control of UAS Platforms"
 collection: research
-type: "Undergraduate Research"
+type: ""
 permalink: /research/UAVRotorFailsafe
 venue: "University of Nevada, Reno, Computer Science and Engineering"
 date: 2014-08-28
 location: "Reno, Nevada"
 ---
+Role: Lead undergraduate researcher.
 
 Rapid increase in the use of Unmanned Autonomous Systems (UAS) has caused the safety of these platforms to become a high priority. One main safety issue with UAS platforms is motor failure. In order to increase the safety of these platforms in the event of such a failure, a failsafe mechanism can be used to stabilize and control the UAS platform.
 
