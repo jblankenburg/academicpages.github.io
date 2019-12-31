@@ -14,3 +14,6 @@ Without a failsafe mechanism, the loss of a motor will cause the platform to fal
 
 With the loss of a motor, the dynamics of a UAS platform will change. By taking advantage of these new dynamics, a failsafe algorithm can use the reduced attitude to return partial control to the platform. This partial control can be used to stabilize the platform and maneuver it a short distance in order to bring it safely to the ground. We have developed failsafe algorithms to deal with motor failure on two different types of UAS: asymmetrical quadrocopters and hexacopters.
 The algorithm for a quadrocopter is adapted from a feedback linearization approach. One of the hexacopter algorithms is also adapted from this approach. The other hexacopter algorithm is adapted from a redistributed pseudo inverse method. The quadrocopter algorithm maintains control for a long enough period of time that a safe landing is possible. The first hexacopter algorithm maintains control by shutting off the opposing motor, thus allowing the platform to fly as a quadrocopter and land safely. The second hexacopter algorithm maintains control with five motors, but it’s much less stable than the feedback linearization based algorithm.
+
+Associated Publications: 
+* <https://jblankenburg.github.io/publication/2014-NVSGC>

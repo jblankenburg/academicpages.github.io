@@ -14,4 +14,5 @@ My research interests are generalized task learning, natural language processing
 
 Previously, I completed by M.S. in Computer Science at University of Nevada, Reno and my B.S. in Applied Mathematics at University of Nevada, Reno.
 
-Checkout my interview for the Nevada STEM Mentor Network: <https://www.youtube.com/watch?v=FMxxUeYAlLo>.
+Checkout my interview for the Nevada STEM Mentor Network: 
+<https://www.youtube.com/watch?v=FMxxUeYAlLo>.
