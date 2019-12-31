@@ -95,11 +95,11 @@ Publications
 * Refereed Journal Articles
   * S. Pourya Hoseini A., __Janelle Blankenburg__, Mircea Nicolescu, Monica Nicolescu, David Feil-Seifer. "Active Eye-in-Hand Data Management to Improve the Robotic Object." Computers, 2019.
 
-* In Preparation Journal Articles
-  * __Janelle Blankenburg__,  Mariya Zagainova\*, Stephen Michael Simmons\*, Gabrielle Talavera\*, Monica Nicolescu, David Feil-Seifer. "Human-Robot Collaboration and Dialogue for Fault Recovery on Hierarchical Tasks." In Preparation for THRI Special issue in on "Explainable Robotic Systems" (in prep).
-  * __Janelle Blankenburg__,  Mariya Zagainova\*, S. Pourya Hoseini A., Monica Nicolescu, Mircea Nicolesu, David Feil-Seifer. "Dynamic Task Allocation in Heterogeneous Robot Teams." In Preparation for MDPI Special Issue of Applied Sciences on "Cognitive Robotics" (in prep).
-
+* Submitted Journal Articles
+  * __Janelle Blankenburg__,  Mariya Zagainova\*, Stephen Michael Simmons\*, Gabrielle Talavera\*, Monica Nicolescu, David Feil-Seifer. "Human-Robot Collaboration and Dialogue for Fault Recovery on Hierarchical Tasks." ACM Transactions on Human-Robot Interaction (THRI), Dec 2019.
+  
 * Refereed Conference Proceedings}
+  * __Janelle Blankenburg__, Richard Kelley, David Feil-Seifer, Rui Wu, Lee Barford, Fred Harris. "Towards GPU-Accelerated PRM for Autonomous Navigation" To Appear in International Conference on Information Technology: New Generations (ITNG), Las Vegas, Nevada, USA, April 2020.  
   * Elif E. Bas, Mohamed Moustafa, David Feil-Seifer, __Janelle Blankenburg__. "Using a Machine Learning Approach for Computational Substructure in Real-Time Hybrid Simulation." To Appear in IMAC-XXXVIII Conference and Exposition, Houston, TX, Feb 2020. Society for Experimental Mechanics (SEM).
   * Bashira Akter Anima, __Janelle Blankenburg__, Mariya Zagainova\*, S. Pourya Hoseini A., Muhammed Tawfiq Chowdhury, David Feil-Seifer, Monica Nicolescu, and Mircea Nicolescu. "Collaborative Human-Robot Hierarchical Task Execution with an Activation Spreading Architecture." To Appear in International Conference on Social Robotics (ICSR), Madrid, Spain, Nov 2019
   * Monica Nicolescu, Natalie Arnold\*, __Janelle Blankenburg__, David Feil-Seifer, Santosh Balajee Banisetty, Mircea Nicolescu, Andrew Palmer, Thor Monteverde. "Learning of Complex-Structured Tasks from Verbal Instruction." In IEEE-RAS International Conference on Humanoid Robots (Humanoids), Toronto, Canada, Oct 2019
@@ -107,13 +107,16 @@ Publications
   * Stephanie Sturgeon\*, Andrew Palmer, __Janelle Blankenburg__, David Feil-Seifer. "Perception of Social Intelligence in Robots Performing False-Belief Tasks." In IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), New Delhi, India, Oct 2019.
   * __Janelle Blankenburg__, Santosh Balajee Banisetty, Seyed P. Hoseini, Luke Fraser, David Feil-Seifer, Monica Nicolescu, and Mircea Nicolescu. "A Distributed Control Architecture for Collaborative Multi-Robot Task Allocation." In International Conference on Humanoid Robots (Humanoids), Birmingham, UK, Nov 2017.
 
-* Submitted Conference Proceedings
-  * __Janelle Blankenburg__, Richard Kelley, David Feil-Seifer, Rui Wu, Lee Barford, Fred Harris. "Towards GPU-Accelerated PRM for Autonomous Navigation" In International Conference on Information Technology: New Generations (ITNG), Las Vegas, Nevada, USA, April 2020 (in review).        
-  * AnaLisa Honour\*, Andrew Palmer, __Janelle Blankenburg__, and David Feil-Seifer. "The Impact of Unwarranted Criticism on Human Perception of a Robot," In ACM/IEEE International Conference on Human-Robot Interaction (HRI), Cambridge, UK, March 2020 (in review). 
+<!-- * Submitted Conference Proceedings
+ -->      
+ 
 
 * In Preparation Conference Proceedings
+   * AnaLisa Honour\*, Andrew Palmer, __Janelle Blankenburg__, and David Feil-Seifer. "The Impact of Unwarranted Criticism on Human Perception of a Robot," In International Conference on Intelligent Robots and Systems (IROS), Las Vegas, Nevada, Oct 2020 (in prep). 
   * Eloisa Burton\*, __Janelle Blankenburg__, Monica Nicolescu, David Feil-Seifer. "Simultaneous Task Collaboration Architecture." In International Conference on Intelligent Robots and Systems (IROS), Las Vegas, Nevada, Oct 2020 (in prep).
   * Taylor Boyd\*, __Janelle Blankenburg__, Monica Nicolescu, David Feil-Seifer. "Hierarchical Task Learning Through Human Demonstration." In International Conference on Intelligent Robots and Systems (IROS), Las Vegas, Nevada, Oct 2020 (in prep).
+  * __Janelle Blankenburg__,  Mariya Zagainova\*, S. Pourya Hoseini A., Monica Nicolescu, Mircea Nicolesu, David Feil-Seifer. "Dynamic Task Allocation in Heterogeneous Robot Teams." In International Conference on Intelligent Robots and Systems (IROS), Las Vegas, Nevada, Oct 2020 (in prep).
+
 
 * Non-Refereed Conference Posters
   * Taylor Boyd\*, Mariya Zagainova\*, __Janelle Blankenburg__, Monica Nicolescu, and David Feil-Seifer. "Hierarchical Task Learning Through Human Demonstration," Poster Paper in Proceedings of the University of Nevada, Reno Summer Undergraduate Research Symposium. Reno, NV. August, 2019.
@@ -136,6 +139,7 @@ Invited Talks (Exculding Conference Talks)
 
 Honors and Awards
 ======
+* __International Conference on Social Robotics (ICSR) Best Paper Award Finalist:__ "Collaborative Human-Robot Hierarchical Task Execution with an Activation Spreading Architecture", Nov 2019.
 * __Kanako Miura Award:__ IEEE RAS Technical Committee on Humanoid Robotics, Oct 2019
 * __Graduate Student Association Travel Award:__ University of Nevada, Reno, Oct 2019 
 * __UNR College of Engineering Differential Fees Graduate Research Fellowship:__ University of Nevada, Reno, Aug 2017 - May 2018
@@ -175,21 +179,22 @@ Teaching
 Research Mentorship
 ======
 * Masters Students Mentored as Ph.D. Student
+  * Bashira Akter Anima (Spring 2018 - Present)
   * Ashutosh Singandhupe (Fall 2016) 
   * David Frank (Fall 2015 - Spring 2016)
 
 * Undergraduates Mentored as Ph.D. Student
   * Chris Peterson (Summer 2019 - Present)
-  * Taylor Boyd* (REU, Summer 2019),
+  * Taylor Boyd* (REU, Summer 2019)
   * Eloisa Burton* (REU, Summer 2019)
-  * Mariya Zagainova* (Spring 2017 - Spring 2019), 
-  * Gabrielle Talavera* (PREP, Spring 2019),
-  * Natalie Arnold* (REU, Summer 2018),
-  * S. Michael Simmons* (REU, Summer 2018),
-  * Maya Cratsley (REU, Summer 2018),
-  * Analisa Honour* (REU, Summer 2018),
-  * Stephanie Sturgeon* (REU, Summer 2018),
-  * Christopher Lewis (Spring 2017),
+  * Mariya Zagainova* (Spring 2017 - Spring 2019)
+  * Gabrielle Talavera* (PREP, Spring 2019)
+  * Natalie Arnold* (REU, Summer 2018)
+  * S. Michael Simmons* (REU, Summer 2018)
+  * Maya Cratsley (REU, Summer 2018)
+  * Analisa Honour* (REU, Summer 2018)
+  * Stephanie Sturgeon* (REU, Summer 2018)
+  * Christopher Lewis (Spring 2017)
 
 
 Community Involvement and K-12 Outreach
