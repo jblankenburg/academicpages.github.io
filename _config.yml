@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Janelle Blankenburg"
   avatar           : "ProfPic.jpg"
-  bio              : "CSE Graduate Research Asssistant"
+  bio              : "CSE Graduate Research Fellow"
   location         : 
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=_Z8kqLcAAAAJ&hl=en&oi=sra"
@@ -106,7 +106,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "_jjblankenburg_"
+  twitter          : # "_jjblankenburg_"
   vine             :
   weibo            :
   xing             :
