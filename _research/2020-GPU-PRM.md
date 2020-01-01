@@ -1,8 +1,8 @@
 ---
-title: "GPU-Accelerated PRM for Autonomous Navigation Role"
+title: "GPU-Accelerated PRM for Autonomous Navigation"
 collection: research
 type: ""
-permalink: /research/FalseBelief
+permalink: /research/GPU-PRM
 venue: "University of Nevada, Reno, Computer Science and Engineering"
 date: 2019-10-27
 location: "Reno, Nevada"
