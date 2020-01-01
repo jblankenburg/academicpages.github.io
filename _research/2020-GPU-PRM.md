@@ -4,7 +4,7 @@ collection: research
 type: ""
 permalink: /research/GPU-PRM
 venue: "University of Nevada, Reno, Computer Science and Engineering"
-date: 2019-10-27
+date: 2020-4-18
 location: "Reno, Nevada"
 ---
 

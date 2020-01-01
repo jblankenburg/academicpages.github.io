@@ -12,7 +12,7 @@ In order to allow the learned task to be generalized, the structure of the task 
 
 By learning the structure of the task instead of the exact details or motor movements of the task, we are able to impart the individual skills of each robot within the task structure to ensure that all robots are performing the same task but with respect to their own suitability. The contributions of the proposed work are: (1) an extension of our previously developed control architecture to allow for conditional constraints, (2) a novel method which is able to take sequences of demonstrations and learn a hierarchical task representation, and (3) an end-to-end system which is able to take demonstrations provided by a human and transfer the learned skills to a team of heterogeneous robots.
 
-Role: Lead graduate researcher/ mentor of undergraduate students.
+Role: Lead graduate researcher/ main mentor of undergraduate students.
 
 Associated Publications: 
 * Ph.D. Dissertation:
