@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate and Graduate Research Fellow in Computer Science at the University of Nevada, Reno. I will be finishing my Ph.D. in May 2020 (expected). 
+I recently graduated with my Ph.D. in Computer Science and Engineering at the University of Nevada, Reno and am currently on the job market!
 
-My research interests are generalized task learning, natural language processing, and machine learning for robotics applications. These interests are motivated by the desire for creating a seamless workflow for collaborative muti-robot/human-robot teams in both industrial and household environments. I aim to develop a generalized task learning framework along with an effective communication method between agents. The goal is for a human to provide both physical and verbal demonstrations to teach the robot to perform a task. In household environments, users would be able to utilize robots for activities of daily living which they are unable to perform themselves. In an industry setting, employees would be able to train robots for new tasks while ensuring they can work alongside the robots safely and reliably.
+My interests fall into three main categories: robotics, data science, and algorithm development. Specifically, I am interested in applying techniques from task learning/scheduling, machine learning, and natural language processing to each of these areas to work towards more explainable AI. My aim is to perform research in one or more of these areas in order to help further the state-of-the art and work on interesting projects which benefit society in some way.
 
-Previously, I completed by M.S. in Computer Science at University of Nevada, Reno and my B.S. in Applied Mathematics at University of Nevada, Reno.
+Previously, I completed by M.S. in Computer Science at University of Nevada, Reno and my B.S. in Applied Mathematics at University of Nevada, Reno. I have also worked as a software engineering intern at Sierra Nevada Corporation (SNC).
 
 Checkout my interview for the Nevada STEM Mentor Network: 
 <https://www.youtube.com/watch?v=FMxxUeYAlLo>.

@@ -13,4 +13,4 @@ Sampling  based  planning  is  an  important  step  for long-range  navigation  
 Role: Lead graduate researcher.
 
 Associated Publications: 
-* Janelle Blankenburg, Richard Kelley, David Feil-Seifer, Rui Wu, Lee Barford, Fred Harris. “Towards GPU-Accelerated PRM for Autonomous Navigation” To Appear in International Conference on Information Technology: New Generations (ITNG), Las Vegas, Nevada, USA, April 2020. <https://jblankenburg.github.io/publication/2020-ITNG>
+* __Janelle Blankenburg__, Richard Kelley, David Feil-Seifer, Rui Wu, Lee Barford, Fred Harris. “Towards GPU-Accelerated PRM for Autonomous Navigation” To Appear in International Conference on Information Technology: New Generations (ITNG), Las Vegas, Nevada, USA, April 2020. <https://jblankenburg.github.io/publication/2020-ITNG>

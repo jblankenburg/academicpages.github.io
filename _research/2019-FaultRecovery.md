@@ -13,4 +13,4 @@ Role: Main mentor of undergraduate students.
 
 Associated Publications: 
 * Submitted Journal Articles:
-	* Janelle Blankenburg, Mariya Zagainova*, Stephen Michael Simmons*, Gabrielle Talavera*, Monica Nicolescu, David Feil-Seifer. “Human-Robot Collaboration and Dialogue for Fault Recovery on Hierarchical Tasks.” ACM Transactions on Human-Robot Interaction (THRI), Dec 2019.
+	__Janelle Blankenburg__,  Mariya Zagainova\*, Stephen Michael Simmons\*, Gabrielle Talavera\*, Monica Nicolescu, David Feil-Seifer. "Human-Robot Collaboration and Dialogue for Fault Recovery on Hierarchical Tasks." In International Conference on Social Robotics (ICSR), July 2020.

@@ -23,4 +23,4 @@ to specify action/object parameters relevant for the task.
 Role: Main mentor of undergraduate student.
 
 Associated Publications: 
-* Monica Nicolescu, Natalie Arnold*, Janelle Blankenburg, David Feil-Seifer, Santosh Balajee Banisetty, Mircea Nicolescu, Andrew Palmer, Thor Monteverde. “Learning of Complex-Structured Tasks from Verbal Instruction.” In IEEE-RAS International Conference on Humanoid Robots (Humanoids), Toronto, Canada, Oct 2019. <https://jblankenburg.github.io/publication/2019-Humanoids>
+* Monica Nicolescu, Natalie Arnold*, __Janelle Blankenburg__, David Feil-Seifer, Santosh Balajee Banisetty, Mircea Nicolescu, Andrew Palmer, Thor Monteverde. “Learning of Complex-Structured Tasks from Verbal Instruction.” In IEEE-RAS International Conference on Humanoid Robots (Humanoids), Toronto, Canada, Oct 2019. <https://jblankenburg.github.io/publication/2019-Humanoids>

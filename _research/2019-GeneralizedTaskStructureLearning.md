@@ -1,5 +1,5 @@
 ---
-title: "Generalized Task Structure Learning for Collaborative Multi-Robot Task Allocation"
+title: "Generalized Task Structure Learning for Collaborative Multi-Robot/Human-Robot Task Allocation"
 collection: research
 type: ""
 permalink: /research/generalizedTaskStructureLearning
@@ -16,6 +16,7 @@ Role: Lead graduate researcher/ main mentor of undergraduate students.
 
 Associated Publications: 
 * Ph.D. Dissertation:
-	* Janelle Blankenburg, “Generalized Task Structure Learning for Collaborative Multi-Robot Task Allocation”, University of Nevada, Reno, NV, May 2020 (expected)
+	* __Janelle Blankenburg__, “Generalized Task Structure Learning for Collaborative Multi-Robot Task Allocation”, University of Nevada, Reno, NV, May 2020 (expected)
 * In Preparation Conference Proceedings:
-	* Eloisa Burton*, Janelle Blankenburg, Monica Nicolescu, David Feil-Seifer. “Simultaneous Task Collaboration Architecture.” In International Conference on Intelligent Robots and Systems (IROS), Las Vegas, Nevada, Oct 2020 (in prep).
+	* __Janelle Blankenburg__, Andrew Palmer, Monica Nicolescu, David Feil-Seifer. "Generalized Hierarchical Task Learning Through Human Demonstration." In IEEE-RAS In International Conference on Intelligent Robots and Systems (IROS), Oct 2021 (in prep).
+	* Eloisa Burton*, Janelle Blankenburg, Monica Nicolescu, David Feil-Seifer. “Interdependence Constraint for Collaborative Multi-Robot Task Allocation Using a Distributed Control Architecture." In IEEE-RAS International Conference on Humanoid Robots (Humanoids), Dec 2021 (in prep).

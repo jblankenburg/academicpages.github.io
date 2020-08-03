@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science and Engineering
-  * University of Nevada, Reno; May 2020 (expected) 
+  * University of Nevada, Reno; GPA 3.957; May 2020 
 * M.S. in Computer Science and Engineering
   * University of Nevada, Reno; GPA 3.977; Dec 2017 
 * B.S. in Applied Mathematics
@@ -20,8 +20,8 @@ Education
 
 Ph.D. Dissertation
 ======
-* __Publication:__ Janelle Blankenburg, "Generalized Task Structure Learning for Collaborative Multi-Robot Task Allocation", University of Nevada, Reno, NV, May 2020 (expected)
-* __Description:__ End-to-end system that allows multi-robot teams to learn and execute complex, hierarchical tasks collaboratively through human demonstration and machine learning techniques. Demonstrated the architecture on manipulation tasks using a human and a team of two humanoid robots (a Baxter and a PR2). Languages/Tools Used: C++, Python, Robot Operating System (ROS), MoveIt!. 
+* __Publication:__ Janelle Blankenburg, "Generalized Task Structure Learning for Collaborative Multi-Robot/Human-Robot Task Allocation", University of Nevada, Reno, NV, May 2020
+* __Description:__ End-to-end system that allows multi-robot/human-robot teams to learn and execute complex, hierarchical tasks collaboratively through human demonstration and machine learning techniques. Demonstrated the system through manipulation tasks using a human and a team of two humanoid robots (a Baxter and a PR2). Languages/Tools Used: C++, Python, Robot Operating System (ROS), MoveIt!. 
 
 
 Master's Thesis
@@ -53,7 +53,7 @@ Professional experience
     * __Software Maintenance:__  Supported team in maintenance and optimization of previously developed software.
  -->
 
-* Graduate Research Fellow - Robotics Research Lab, University of Nevada, Reno - Dec 2014 - Present
+* Graduate Research Fellow - Robotics Research Lab, University of Nevada, Reno - Dec 2014 - June 2020
   * _Generalized Task Structure Learning:_ Developed an end-to-end system to learn generalized manipulation tasks for collaborative multi-robot teams using human demonstration and machine learning.
   * _Multi-Robot Task Allocation:_ Extended a task allocation architecture from the single-robot domain to the multi-robot domain; Extended architecture for human-robot teams; Managed team for architecture development.
 
@@ -95,8 +95,8 @@ Publications
 * Refereed Journal Articles
   * S. Pourya Hoseini A., __Janelle Blankenburg__, Mircea Nicolescu, Monica Nicolescu, David Feil-Seifer. "Active Eye-in-Hand Data Management to Improve the Robotic Object." Computers, 2019. __Article chosen as issue cover.__
 
-* Submitted Journal Articles
-  * __Janelle Blankenburg__,  Mariya Zagainova\*, Stephen Michael Simmons\*, Gabrielle Talavera\*, Monica Nicolescu, David Feil-Seifer. "Human-Robot Collaboration and Dialogue for Fault Recovery on Hierarchical Tasks." ACM Transactions on Human-Robot Interaction (THRI), Dec 2019.
+<!-- * Submitted Journal Articles
+  * __Janelle Blankenburg__,  Mariya Zagainova\*, Stephen Michael Simmons\*, Gabrielle Talavera\*, Monica Nicolescu, David Feil-Seifer. "Human-Robot Collaboration and Dialogue for Fault Recovery on Hierarchical Tasks." ACM Transactions on Human-Robot Interaction (THRI), Dec 2019. -->
   
 * Refereed Conference Proceedings
   * __Janelle Blankenburg__, Richard Kelley, David Feil-Seifer, Rui Wu, Lee Barford, Fred Harris. "Towards GPU-Accelerated PRM for Autonomous Navigation" To Appear in International Conference on Information Technology: New Generations (ITNG), Las Vegas, Nevada, USA, April 2020.  
@@ -107,15 +107,17 @@ Publications
   * Stephanie Sturgeon\*, Andrew Palmer, __Janelle Blankenburg__, David Feil-Seifer. "Perception of Social Intelligence in Robots Performing False-Belief Tasks." In IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), New Delhi, India, Oct 2019.
   * __Janelle Blankenburg__, Santosh Balajee Banisetty, Seyed P. Hoseini, Luke Fraser, David Feil-Seifer, Monica Nicolescu, and Mircea Nicolescu. "A Distributed Control Architecture for Collaborative Multi-Robot Task Allocation." In International Conference on Humanoid Robots (Humanoids), Birmingham, UK, Nov 2017.
 
-<!-- * Submitted Conference Proceedings
- -->      
+* Submitted Conference Proceedings
+   * __Janelle Blankenburg__,  Mariya Zagainova\*, Stephen Michael Simmons\*, Gabrielle Talavera\*, Monica Nicolescu, David Feil-Seifer. "Human-Robot Collaboration and Dialogue for Fault Recovery on Hierarchical Tasks." In International Conference on Social Robotics (ICSR), July 2020.
+   * Andrew Palmer, Chris Peterson\*, __Janelle Blankenburg__, David Feil-Seifer, Monica Nicolescu. "Simple Camera-to-2D-LiDAR Calibration Method for General Use."  In International Symposium on Visual Computing (ISVC), July 2020.
  
 
 * In Preparation Conference Proceedings
-   * AnaLisa Honour\*, Andrew Palmer, __Janelle Blankenburg__, and David Feil-Seifer. "The Impact of Unwarranted Criticism on Human Perception of a Robot," In International Conference on Intelligent Robots and Systems (IROS), Las Vegas, Nevada, Oct 2020 (in prep). 
-  * Eloisa Burton\*, __Janelle Blankenburg__, Monica Nicolescu, David Feil-Seifer. "Simultaneous Task Collaboration Architecture." In International Conference on Intelligent Robots and Systems (IROS), Las Vegas, Nevada, Oct 2020 (in prep).
-  * Taylor Boyd\*, __Janelle Blankenburg__, Monica Nicolescu, David Feil-Seifer. "Hierarchical Task Learning Through Human Demonstration." In International Conference on Intelligent Robots and Systems (IROS), Las Vegas, Nevada, Oct 2020 (in prep).
-  * __Janelle Blankenburg__,  Mariya Zagainova\*, S. Pourya Hoseini A., Monica Nicolescu, Mircea Nicolesu, David Feil-Seifer. "Dynamic Task Allocation in Heterogeneous Robot Teams." In International Conference on Intelligent Robots and Systems (IROS), Las Vegas, Nevada, Oct 2020 (in prep).
+<!--    * AnaLisa Honour\*, Andrew Palmer, __Janelle Blankenburg__, and David Feil-Seifer. "The Impact of Unwarranted Criticism on Human Perception of a Robot," In International Conference on Intelligent Robots and Systems (IROS), Las Vegas, Nevada, Oct 2020 (in prep).  -->
+  * __Janelle Blankenburg__, Andrew Palmer, Monica Nicolescu, David Feil-Seifer. "Generalized Hierarchical Task Learning Through Human Demonstration." In IEEE-RAS In International Conference on Intelligent Robots and Systems (IROS), Oct 2021 (in prep).
+  * __Janelle Blankenburg__,  Mariya Zagainova\*, S. Pourya Hoseini A., Monica Nicolescu, Mircea Nicolesu, David Feil-Seifer. "Dynamic Task Allocation in Heterogeneous Robot Teams." In International Conference on Intelligent Robots and Systems (IROS), Oct 2021 (in prep).
+  * Eloisa Burton\*, __Janelle Blankenburg__, Monica Nicolescu, David Feil-Seifer. "Interdependence Constraint for Collaborative Multi-Robot Task Allocation Using a Distributed Control Architecture." In IEEE-RAS International Conference on Humanoid Robots (Humanoids), Dec 2021 (in prep).
+<!--   * Taylor Boyd\*, __Janelle Blankenburg__, Monica Nicolescu, David Feil-Seifer. "Hierarchical Task Learning Through Human Demonstration." In International Conference on Intelligent Robots and Systems (IROS), Oct 2021 (in prep). -->
 
 
 * Non-Refereed Conference Posters
@@ -133,6 +135,10 @@ Publications
 
 Invited Talks (Exculding Conference Talks)
 ======
+* __Generalized Task Learning for Human-Robot Collaboration:__ University of Texas Arlington, April 2020
+* __Generalized Task Learning for Human-Robot Collaboration:__ University of Louisville, March 2020
+* __Generalized Task Learning for Human-Robot Collaboration:__ University of South Carolina, March 2020
+* __Generalized Task Learning for Human-Robot Collaboration:__ University of Massachusetts Lowell, Feb 2020
 * __Robot Operating System (ROS) Tutorial:__ University of Nevada, Reno - Research Experience for Undergraduates (REU) Site, July 2019 (Approx. 15 students)
 
 
@@ -152,8 +158,6 @@ Grant Participation
 ======
 * Grant Preparation Experience
   * _Quori @ UNR: An Assistance, Collaboration, and Service Research Platform For Human-Robot Interaction In the Wild, 2019. Quori CRI Competitive Competition._ $2,500 (equipment). co-PI: Monica Nicolescu, Kostas Alexis, Hung La, Alireza Tavakkoli, and Yantao Shen; _Role: Helped draft a significant portion of the proposal_
-
-
 
 * Researcher on Funded Projects
   * _Designing Collaborator Robots for Highly-Dynamic Multi-Human, Multi-Robot Teams, 2016-2019. Office of Naval Research (ONR)._ $656,511. PI: Monica Nicolescu, co-PIs: David Feil-Seifer, Mircea Nicolescu; _Role: Lead graduate researcher on multi-person graduate/undergraduate team_
@@ -183,8 +187,8 @@ Research Mentorship
   * David Frank (Fall 2015 - Spring 2016)
 
 * Undergraduates Mentored as Ph.D. Student
-  * Chris Peterson (Summer 2019 - Present)
-  * Taylor Boyd* (REU, Summer 2019)
+  * Chris Peterson* (Summer 2019 - June 2020)
+  * Taylor Boyd (REU, Summer 2019)
   * Eloisa Burton* (REU, Summer 2019)
   * Mariya Zagainova* (Spring 2017 - Spring 2019)
   * Gabrielle Talavera* (PREP, Spring 2019)
@@ -214,6 +218,7 @@ Professional Activities and Academic Service
   * IEEE International Conference on Robots and Systems (IROS) 
   * ACM/IEEE International Conference on Human-Robot Interaction (HRI) 
   * IEEE-RAS International Conference on Humanoid Robots (Humanoids)
+  * International Conference on Social Robotics (ICSR)
 * Maintainer
   * _Distributed\_Collaborative\_Task\_Tree:_ UNR Repository for distributed hierarchical architecture for multi-robot/human-robot collaboration
 

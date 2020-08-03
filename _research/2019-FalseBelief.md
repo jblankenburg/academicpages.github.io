@@ -13,4 +13,4 @@ This study evaluated how a robot demonstrating a Theory of Mind (ToM) influenced
 Role: Graduate mentor for undergraduate student.
 
 Associated Publications: 
-* Stephanie Sturgeon*, Andrew Palmer, Janelle Blankenburg, David Feil-Seifer. “Perception of Social Intelligence in Robots Performing False-Belief Tasks.” In IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), New Delhi, India, Oct 2019. <https://jblankenburg.github.io/publication/2019-ROMAN>
+* Stephanie Sturgeon*, Andrew Palmer, __Janelle Blankenburg__, David Feil-Seifer. “Perception of Social Intelligence in Robots Performing False-Belief Tasks.” In IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), New Delhi, India, Oct 2019. <https://jblankenburg.github.io/publication/2019-ROMAN>

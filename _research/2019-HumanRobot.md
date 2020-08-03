@@ -12,4 +12,4 @@ This research addresses the problem of human-robot collaborative task execution 
 Role: Main mentor of MS student.
 
 Associated Publications: 
-* Bashira Akter Anima, Janelle Blankenburg, Mariya Zagainova*, S. Pourya Hoseini A., Muhammed Tawfiq Chowdhury, David Feil-Seifer, Monica Nicolescu, and Mircea Nicolescu. “Collaborative Human-Robot Hierarchical Task Execution with an Activation Spreading Architecture.” In International Conference on Social Robotics (ICSR), Madrid, Spain, Nov 2019. Best Paper Award Finalist. <https://jblankenburg.github.io/publication/2019-ICSR>
+* Bashira Akter Anima, __Janelle Blankenburg__, Mariya Zagainova*, S. Pourya Hoseini A., Muhammed Tawfiq Chowdhury, David Feil-Seifer, Monica Nicolescu, and Mircea Nicolescu. “Collaborative Human-Robot Hierarchical Task Execution with an Activation Spreading Architecture.” In International Conference on Social Robotics (ICSR), Madrid, Spain, Nov 2019. Best Paper Award Finalist. <https://jblankenburg.github.io/publication/2019-ICSR>
