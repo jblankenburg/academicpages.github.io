@@ -81,7 +81,7 @@ Non-Dissertation Projects
 Technology Skills
 ======
 * __Comfortable:__ Python, C/C++, MATLAB, Robot Operating System (ROS)
-* __Familiar:__ Git, PyTorch, Scikit-Learn, TensorFlow, OpenAI Gym, Caffe, CUDA
+* __Familiar:__ Git, Scikit-Learn, SciPy, CUDA, SQL, PyTorch, TensorFlow, OpenAI Gym
 
 
 
@@ -99,6 +99,7 @@ Publications
   * __Janelle Blankenburg__,  Mariya Zagainova\*, Stephen Michael Simmons\*, Gabrielle Talavera\*, Monica Nicolescu, David Feil-Seifer. "Human-Robot Collaboration and Dialogue for Fault Recovery on Hierarchical Tasks." ACM Transactions on Human-Robot Interaction (THRI), Dec 2019. -->
   
 * Refereed Conference Proceedings
+   * __Janelle Blankenburg__,  Mariya Zagainova\*, Stephen Michael Simmons\*, Gabrielle Talavera\*, Monica Nicolescu, David Feil-Seifer. "Human-Robot Collaboration and Dialogue for Fault Recovery on Hierarchical Tasks." In International Conference on Social Robotics (ICSR), Nov 2020.
   * __Janelle Blankenburg__, Richard Kelley, David Feil-Seifer, Rui Wu, Lee Barford, Fred Harris. "Towards GPU-Accelerated PRM for Autonomous Navigation" To Appear in International Conference on Information Technology: New Generations (ITNG), Las Vegas, Nevada, USA, April 2020.  
   * Elif E. Bas, Mohamed Moustafa, David Feil-Seifer, __Janelle Blankenburg__. "Using a Machine Learning Approach for Computational Substructure in Real-Time Hybrid Simulation." To Appear in IMAC-XXXVIII Conference and Exposition, Houston, TX, Feb 2020. Society for Experimental Mechanics (SEM).
   * Bashira Akter Anima, __Janelle Blankenburg__, Mariya Zagainova\*, S. Pourya Hoseini A., Muhammed Tawfiq Chowdhury, David Feil-Seifer, Monica Nicolescu, and Mircea Nicolescu. "Collaborative Human-Robot Hierarchical Task Execution with an Activation Spreading Architecture." In International Conference on Social Robotics (ICSR), Madrid, Spain, Nov 2019. __Best Paper Award Finalist__
@@ -108,7 +109,6 @@ Publications
   * __Janelle Blankenburg__, Santosh Balajee Banisetty, Seyed P. Hoseini, Luke Fraser, David Feil-Seifer, Monica Nicolescu, and Mircea Nicolescu. "A Distributed Control Architecture for Collaborative Multi-Robot Task Allocation." In International Conference on Humanoid Robots (Humanoids), Birmingham, UK, Nov 2017.
 
 * Submitted Conference Proceedings
-   * __Janelle Blankenburg__,  Mariya Zagainova\*, Stephen Michael Simmons\*, Gabrielle Talavera\*, Monica Nicolescu, David Feil-Seifer. "Human-Robot Collaboration and Dialogue for Fault Recovery on Hierarchical Tasks." In International Conference on Social Robotics (ICSR), July 2020.
    * Andrew Palmer, Chris Peterson\*, __Janelle Blankenburg__, David Feil-Seifer, Monica Nicolescu. "Simple Camera-to-2D-LiDAR Calibration Method for General Use."  In International Symposium on Visual Computing (ISVC), July 2020.
  
 
@@ -116,7 +116,7 @@ Publications
 <!--    * AnaLisa Honour\*, Andrew Palmer, __Janelle Blankenburg__, and David Feil-Seifer. "The Impact of Unwarranted Criticism on Human Perception of a Robot," In International Conference on Intelligent Robots and Systems (IROS), Las Vegas, Nevada, Oct 2020 (in prep).  -->
   * __Janelle Blankenburg__, Andrew Palmer, Monica Nicolescu, David Feil-Seifer. "Generalized Hierarchical Task Learning Through Human Demonstration." In IEEE-RAS In International Conference on Intelligent Robots and Systems (IROS), Oct 2021 (in prep).
   * __Janelle Blankenburg__,  Mariya Zagainova\*, S. Pourya Hoseini A., Monica Nicolescu, Mircea Nicolesu, David Feil-Seifer. "Dynamic Task Allocation in Heterogeneous Robot Teams." In International Conference on Intelligent Robots and Systems (IROS), Oct 2021 (in prep).
-  * Eloisa Burton\*, __Janelle Blankenburg__, Monica Nicolescu, David Feil-Seifer. "Interdependence Constraint for Collaborative Multi-Robot Task Allocation Using a Distributed Control Architecture." In IEEE-RAS International Conference on Humanoid Robots (Humanoids), Dec 2021 (in prep).
+  * Eloisa Burton\*, Nathaniel Rose\*, __Janelle Blankenburg__, Monica Nicolescu, David Feil-Seifer. "Interdependence Constraint for Collaborative Multi-Robot Task Allocation Using a Distributed Control Architecture." In IEEE-RAS International Conference on Humanoid Robots (Humanoids), Dec 2021 (in prep).
 <!--   * Taylor Boyd\*, __Janelle Blankenburg__, Monica Nicolescu, David Feil-Seifer. "Hierarchical Task Learning Through Human Demonstration." In International Conference on Intelligent Robots and Systems (IROS), Oct 2021 (in prep). -->
 
 
@@ -182,12 +182,13 @@ Teaching
 Research Mentorship
 ======
 * Masters Students Mentored as Ph.D. Student
-  * Bashira Akter Anima (Spring 2018 - Present)
+  * Bashira Akter Anima (Spring 2018 - Spring 2020)
   * Ashutosh Singandhupe (Fall 2016) 
   * David Frank (Fall 2015 - Spring 2016)
 
 * Undergraduates Mentored as Ph.D. Student
-  * Chris Peterson* (Summer 2019 - June 2020)
+  * Nathaniel Rose* (Spring 2020)
+  * Chris Peterson* (Summer 2019 - Spring 2020)
   * Taylor Boyd (REU, Summer 2019)
   * Eloisa Burton* (REU, Summer 2019)
   * Mariya Zagainova* (Spring 2017 - Spring 2019)
