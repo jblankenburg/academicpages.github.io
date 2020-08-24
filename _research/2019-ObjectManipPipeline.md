@@ -16,4 +16,4 @@ Associated Publications:
 * Refereed Journal Articles
 	* S. Pourya Hoseini A., __Janelle Blankenburg__, Mircea Nicolescu, Monica Nicolescu, David Feil-Seifer. “Active Eye-in-Hand Data Management to Improve the Robotic Object.” Computers, 2019. Article chosen as issue cover.
 * Refereed Conference Proceedings:
-	* S. Pourya Hoseini A., __Janelle Blankenburg__, Mircea Nicolescu, Monica Nicolescu, and David Feil-Seifer. “A Dual-Camera Robotic Vision System Based on the Concept of Active Perception.” In International Symposium on Visual Computing (ISVC), Lake Tahoe, USA, Oct 2019.
+	* S. Pourya Hoseini A., __Janelle Blankenburg__, Mircea Nicolescu, Monica Nicolescu, and David Feil-Seifer. “An Active Robotic Vision System with a Pair of Moving and Stationary Cameras.” In International Symposium on Visual Computing (ISVC), Lake Tahoe, USA, Oct 2019.

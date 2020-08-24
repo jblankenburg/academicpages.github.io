@@ -16,6 +16,6 @@ Role: Lead graduate researcher.
 
 Associated Publications: 
 * In Preparation Conference Proceedings: 
-	* __Janelle Blankenburg__, Mariya Zagainova*, S. Pourya Hoseini A., Monica Nicolescu, Mircea Nicolesu, David Feil-Seifer. “Dynamic Task Allocation in Heterogeneous Robot Teams.” In International Conference on Intelligent Robots and Systems (IROS), Las Vegas, Nevada, Oct 2020 (in prep).
+	* __Janelle Blankenburg__, Mariya Zagainova*, S. Pourya Hoseini A., Monica Nicolescu, Mircea Nicolesu, David Feil-Seifer. “Dynamic Task Allocation in Heterogeneous Robot Teams.” In International Conference on Intelligent Robots and Systems (IROS), Oct 2021 (in prep).
 * Refereed Conference Proceedings
 	* __Janelle Blankenburg__, Santosh Balajee Banisetty, Seyed P. Hoseini, Luke Fraser, David Feil-Seifer, Monica Nicolescu, and Mircea Nicolescu. “A Distributed Control Architecture for Collaborative Multi-Robot Task Allocation.” In International Conference on Humanoid Robots (Humanoids), Birmingham, UK, Nov 2017. <https://jblankenburg.github.io/publication/2017-Humanoids>

@@ -1,5 +1,5 @@
 ---
-title: "Real-time, Distributed Joint Human-Robot Task Execution."
+title: "Real-time, Distributed Joint Human-Robot Task Execution"
 collection: research
 type: ""
 permalink: /research/HumanRobotTaskExecution

@@ -1,5 +1,5 @@
 ---
-title: "Learning Complex Task Structures from Verbal Instruction."
+title: "Learning Complex Task Structures from Verbal Instruction"
 collection: research
 type: ""
 permalink: /research/LearningFromVerbalInstruction

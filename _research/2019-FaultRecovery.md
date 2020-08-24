@@ -1,5 +1,5 @@
 ---
-title: "Human-Robot Collaboration and Dialogue for Fault Recovery on Hierarchical Tasks."
+title: "Human-Robot Collaboration and Dialogue for Fault Recovery on Hierarchical Tasks"
 collection: research
 type: ""
 permalink: /research/FaultRecovery
@@ -12,5 +12,4 @@ Robotic systems typically follow a rigid approach to task execution in which the
 Role: Main mentor of undergraduate students.
 
 Associated Publications: 
-* Submitted Journal Articles:
-	__Janelle Blankenburg__,  Mariya Zagainova\*, Stephen Michael Simmons\*, Gabrielle Talavera\*, Monica Nicolescu, David Feil-Seifer. "Human-Robot Collaboration and Dialogue for Fault Recovery on Hierarchical Tasks." In International Conference on Social Robotics (ICSR), July 2020.
+* __Janelle Blankenburg__,  Mariya Zagainova\*, Stephen Michael Simmons\*, Gabrielle Talavera\*, Monica Nicolescu, David Feil-Seifer. "Human-Robot Collaboration and Dialogue for Fault Recovery on Hierarchical Tasks." In International Conference on Social Robotics (ICSR), Golden, Colorado, USA, Nov 2020.
