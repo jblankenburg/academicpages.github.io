@@ -80,8 +80,8 @@ Non-Dissertation Projects
 
 Technology Skills
 ======
-* __Comfortable:__ Python, C/C++, MATLAB, Robot Operating System (ROS)
-* __Familiar:__ Git, Scikit-Learn, SciPy, CUDA, SQL, PyTorch, TensorFlow, OpenAI Gym
+* __Comfortable:__ Python, C/C++, NumPy, SciPy, MATLAB, Robot Operating System (ROS)
+* __Familiar:__ Git, Scikit-Learn, CUDA, SQL, PyTorch, TensorFlow, OpenAI Gym
 
 
 
