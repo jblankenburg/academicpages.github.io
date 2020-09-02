@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-Humanoids
 excerpt: 'This paper presents a novel approach to robottask learning from language-based instructions, which focuseson increasing the complexity of task representations that canbe taught through verbal instruction.'
 date: 2019-10-15
-venue: 'IEEE-RAS International Conference on Humanoid Robots (Humanoids).'
+venue: 'IEEE-RAS International Conference on Humanoid Robots (Humanoids)'
 paperurl: 'https://rrl.cse.unr.edu/media/documents/2019/ICHR19_0064_MS.pdf'
 citation: 'Monica Nicolescu, Natalie Arnold, Janelle Blankenburg, David Feil-Seifer, Santosh Balajee Banisetty, Mircea Nicolescu, Andrew Palmer, Thor Monteverde. "Learning of Complex-Structured Tasks from Verbal Instruction." In IEEE-RAS International Conference on Humanoid Robots (Humanoids), Toronto, Canada, Oct 2019'
 ---

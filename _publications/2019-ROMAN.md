@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-ROMAN
 excerpt: 'This study evaluated how a robot demonstrating a Theory of Mind (ToM) influenced human perception of social intelligence and animacy in a human-robot interaction.'
 date: 2019-10-15
-venue: '2019 28th IEEE International Conference on Robot and Human Interactive Communication (ROMAN).'
+venue: '2019 28th IEEE International Conference on Robot and Human Interactive Communication (ROMAN)'
 paperurl: 'https://rrl.cse.unr.edu/media/documents/2019/Stephanie_REU_Perceived_Intelligence_and_Animacy_in_Robots_1.pdf'
 citation: 'Stephanie Sturgeon, Andrew Palmer, Janelle Blankenburg, David Feil-Seifer. &quot;Perception of Social Intelligence in Robots Performing False-Belief Tasks.&quot; In <i>International Conference on Robot and Human Interactive Communication (ROMAN)</i>, New Delhi, India, Oct 2019.'
 ---
