@@ -53,7 +53,7 @@ Professional experience
     * __Software Maintenance:__  Supported team in maintenance and optimization of previously developed software.
  -->
 
-* Lead Data SCientist/Engineer- Bently Nevada - Baker Hughes, Minden, NV - Dec 2020 - Current
+* Lead Data Scientist/Engineer- Bently Nevada - Baker Hughes, Minden, NV - Dec 2020 - Current
   * _Distributed Data Infrastructure:_ Leading efforts in development of a distributed data infrastructure for extracting, storing, and querying machine data for analytics applications.
 
 * Graduate Research Fellow - Robotics Research Lab, University of Nevada, Reno - Dec 2014 - June 2020
