@@ -53,6 +53,9 @@ Professional experience
     * __Software Maintenance:__  Supported team in maintenance and optimization of previously developed software.
  -->
 
+* Lead Data SCientist/Engineer- Bently Nevada - Baker Hughes, Minden, NV - Dec 2020 - Current
+  * _Distributed Data Infrastructure:_ Leading efforts in development of a distributed data infrastructure for extracting, storing, and querying machine data for analytics applications.
+
 * Graduate Research Fellow - Robotics Research Lab, University of Nevada, Reno - Dec 2014 - June 2020
   * _Generalized Task Structure Learning:_ Developed an end-to-end system to learn generalized manipulation tasks for collaborative multi-robot teams using human demonstration and machine learning.
   * _Multi-Robot Task Allocation:_ Extended a task allocation architecture from the single-robot domain to the multi-robot domain; Extended architecture for human-robot teams; Managed team for architecture development.
@@ -71,9 +74,9 @@ Professional experience
 
 Non-Dissertation Projects
 ======
-* __Technical Paper Recommendation System:__  Combined deep-learning based semantic analysis with complex networktheory to build a recommendation system; Languages/Tools Used:  Python, Gensim, Gephi.
-* __Object Classification:__  Developed an object classification algorithm which utilized a pre-trained neural network as afeature extractor for classifying unseen object classes; Languages/Tools Used:  Python, Torch, Model Zoo, Scikit-Learn.
-* __Clothing Trend Prediction:__  Developed a machine learning algorithm to predict clothing trends across several citiesfor any given day of the year; Lanuages/Tools Used:  Python, Scikit-Learn, SciPy.
+* __Technical Paper Recommendation System:__  Combined deep-learning based semantic analysis with complex network theory to build a recommendation system; Languages/Tools Used:  Python, Gensim, Gephi.
+* __Object Classification:__  Developed an object classification algorithm which utilized a pre-trained neural network as a feature extractor for classifying unseen object classes; Languages/Tools Used:  Python, Torch, Model Zoo, Scikit-Learn.
+* __Clothing Trend Prediction:__  Developed a machine learning algorithm to predict clothing trends across several cities for any given day of the year; Lanuages/Tools Used:  Python, Scikit-Learn, SciPy.
 * __NASA UTM Interface Testing:__ Assisted in testing of Nevada's interface with NASA's Unmanned Traffic Management (UTM) system through drone flights; Languages/Tools Used: Python, Q-Ground Control.
 * __NASA Beyond-Line-of-Sight Drone Testing:__ Visual observer for Nevada's drone testing using NASA's Unmanned Traffic Management (UTM) system for beyond-line-of-sight drone flights; Languages/Tools Used: N/A.
 
